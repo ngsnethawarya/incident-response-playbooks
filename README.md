@@ -30,7 +30,6 @@ The goal of this project is to build powerful Python-based tools that can suppor
 - Cybersecurity automation
 
 ## Tools and Libraries
-
 - Python
 - socket
 - hashlib
