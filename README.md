@@ -42,4 +42,5 @@ The goal of this project is to build powerful Python-based tools that can suppor
 
 ## Project Goal
 
+
 This repository is designed to become an advanced cybersecurity Python toolkit over time. It will start with simple scripts and grow into stronger tools for security monitoring, analysis, and automation.
